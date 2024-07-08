@@ -1,2 +1,2 @@
 # Cat-Facts-News
-  Simple new GUI using Tkinter.
+  Simple news GUI using Tkinter.
